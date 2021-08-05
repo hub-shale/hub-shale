@@ -1,4 +1,4 @@
-<h2 align="center"> **Shale Hunter**
+<h2 align="center"> Shale Hunter
   
 # Welcome to my Github! 
 
