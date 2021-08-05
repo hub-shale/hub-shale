@@ -1,6 +1,6 @@
 <h2 align="center"> Shale Hunter
   
- <img align=""center https://bren.ucsb.edu/themes/custom/bren/images/logo-bren-white.svg>
+ 
 # Welcome to my Github! 
 
 
