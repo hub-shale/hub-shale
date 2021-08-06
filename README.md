@@ -4,7 +4,7 @@
  
 # Welcome to my Github! 
 
- !<img src="https://ucsb.app.box.com/s/7xoxheblz10ogta59laakak0b572ls4m/file/688945609135" width="24">
+ <img width="24"> [Bren]()
 
 
 -🏝 I’m currently working on my Masters in Environmental Data Science at the University of California Santa Barbara's Bren School of Environmental Science & Management! 🌊
