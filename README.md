@@ -4,7 +4,7 @@
  
 # Welcome to my Github! 
 
-<img src="Bren-LeafArtOnly-FullColor-RGB-flat.png" width="192" align="center">
+<img align="center" src="Bren-LeafArtOnly-FullColor-RGB-flat.png" width="192" >
 
 -🏝 I’m currently working on my Masters in Environmental Data Science at the University of California Santa Barbara's Bren School of Environmental Science & Management! 🌊
 - 🧠 I’m currently learning python.
