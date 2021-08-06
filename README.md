@@ -4,6 +4,7 @@
  
 # Welcome to my Github! 
 
+ <img align="center">![Bren](Bren-LeafArtOnly-FullColor-RGB-flat.png)
 
 
 -🏝 I’m currently working on my Masters in Environmental Data Science at the University of California Santa Barbara's Bren School of Environmental Science & Management! 🌊
