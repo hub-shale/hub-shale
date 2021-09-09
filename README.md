@@ -8,6 +8,7 @@
 
 -🏝 I’m currently working on my Masters in Environmental Data Science at the University of California Santa Barbara's Bren School of Environmental Science & Management! 🌊
 - 🧠 I’m currently learning python.
+- 📚 When I'm not working in R, find me as a TA in the Art History department.
 - 🍰 I'd rather be ... climbing, camping, in the mountains, on the beach, playing frisbee or eating cake!
 
 
