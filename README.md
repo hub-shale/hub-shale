@@ -1,27 +1,20 @@
 <h2 align="center"> Shale Hunter
 <h3 align="center"> UCSB Bren 2022
+<img align="center" src="Bren-LeafArtOnly-FullColor-RGB-flat.png" width="96" >
 <h3 align="center"> Tufts 2020
  
 # Welcome to my Github! 
 
-<img align="center" src="Bren-LeafArtOnly-FullColor-RGB-flat.png" width="192" >
 
--🏝 I’m currently working on my Masters in Environmental Data Science at the University of California Santa Barbara's Bren School of Environmental Science & Management! 🌊
-- 🧠 I’m currently learning python, and looking to learn more about data ontology. 
-- 📚 When I'm not working in R, find me as a TA in the Art History department.
-- 🍰 I'd rather be ... climbing, camping, in the mountains, on the beach, playing frisbee or eating cake!
+For nearly a decade I have made the natural world a personal, academic, and occupational priority. Today that takes the form of working as a Data Management Fellow with the Environmental Data Initiative in partnership with Montana State University to develop workflows to preserve and disseminate data from watersheds damaged by mine runoff and agriculture. I completed my Master’s of Environmental Data Science at UCSB’s Bren School of Environmental Science and Management in June of 2022, but with a dual Bachelors in Biology-Psychology and Chinese from Tufts University, I also have a diverse educational background and a passion for interdisciplinary collaboration and communication. Prior to entering the field of data science, I spent 2 years as a field technician collecting ecological data through the Bureau of Land Management’s Assessment, Inventory, and Monitoring (AIM) protocols in New Mexico and Nevada, which has led to a professional background and interest in desert ecology and botany. While the desert is still perhaps my favorite ecosystem, I am always looking for new environments in which to apply my passion for open science, FAIR data, and inclusivity in data science!
 
 
 <!--
+- 🧠 I’m currently learning ...
+-🏝 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
--->
-
- 
- 
- <!--
-Draft Professional Bio:
-Shale is currently pursuing a Master's of Environmental Data Science at UCSB's Bren School of Environmental Science and Management. With a dual Bachelors in Biology-Psychology and Chinese from Tufts University, he has a diverse education background and a passion for interdisciplinary collaboration and communication. For the past few years, Shale has worked as a field technician collecting ecological data through the Bureau of Land Management's Assessment, Inventory, and Monitoring (AIM) protocols in New Mexico and Nevada, which has led to a professional background and interest in desert ecology and botany. Through Bren, Shale hopes to combine these interests with accumulated skills in data visualization and modeling to develop and share research-based solutions to ecological threats to the flora and fauna of deserts, including climate change, drought, invasive species, and human encroachment.
+- 🍰 I'd rather be ...
 -->
