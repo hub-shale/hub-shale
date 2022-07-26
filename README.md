@@ -1,6 +1,8 @@
 <h2 align="center"> Shale Hunter
-<h3 align="center"> UCSB Bren 2022 \n 
-<img align="center" src="Bren-LeafArtOnly-FullColor-RGB-flat.png" width="96" >
+<h3 align="center"> UCSB Bren 2022 
+<p align="center">
+ <img align="center" src="Bren-LeafArtOnly-FullColor-RGB-flat.png" width="96">
+</p> 
 <h3 align="center"> Tufts 2020
  
 # Welcome to my Github! 
