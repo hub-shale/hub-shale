@@ -1,7 +1,8 @@
-<h2 align='center'> Shale Hunter
+<h2 align='center'> Shale Hunter </h2>
 
 
-![](MT_SS1.png){width=50%}
+<!-- ![](MT_SS1.png){width=50%} -->
+<img src="MT_SS1.png" alt="Generative Art created using AIM data from Montana" stlye="width:300px;height:200;">
 
 
 <h1 align='center'> Welcome to my Github! </h1>
