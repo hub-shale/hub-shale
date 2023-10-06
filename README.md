@@ -1,5 +1,9 @@
 <h2 align='center'> Shale Hunter
- 
+
+
+![](MT_SS1.png){width=50%}
+
+
 <h1 align='center'> Welcome to my Github! </h1>
 
 
